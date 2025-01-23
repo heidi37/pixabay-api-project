@@ -2,7 +2,7 @@
 
 [View Live Project](https://pixabay-api-project.netlify.app/)
 
-<img src="./public/screenshot.png" alt="screenshot of Pixabay App" />
+<img src="./public/pixabay.gif" alt="animated gif of Pixabay App" />
 
 ## How It's Made:
 This is a single-page vanilla JavaScript web application created using the Vite build tool. It uses the fetch web API to make requests to the Pixabay API and returns one result for each request.
