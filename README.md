@@ -22,7 +22,7 @@ I have used Vite to spin up single-page React apps in the past, this was the fir
 
 <table border="1">
   <tr>
-    <td style="text-align: center;"><a href="https://heidifryzell.com/random-dog-photo/">Random Dog Photos</a></td>
+    <td style="text-align: center;"><a href="https://heidifryzell.com/random-dog-photo/">Random Dog Photos</a> | <a href="https://github.com/heidi37/random-dog-photo">Repo</a></td>
   </tr>
   <tr>
     <td><a href="https://heidifryzell.com/random-dog-photo/"><img width="300" src="https://raw.githubusercontent.com/heidi37/random-dog-photo/main/screenshot.png" alt="screenshot of random dog photos web application" /></a></td>
@@ -31,7 +31,7 @@ I have used Vite to spin up single-page React apps in the past, this was the fir
 
 <table border="1">
   <tr>
-    <td style="text-align: center;"><a href="https://heidifryzell.com">My Portfolio</a></td>
+    <td style="text-align: center;"><a href="https://heidifryzell.com">My Portfolio</a> | <a href="https://github.com/heidi37/my-python-portfolio">Repo</a></td>
   </tr>
   <tr>
     <td><a href="https://heidifryzell.com"><img width="300" src="https://raw.githubusercontent.com/heidi37/my-python-portfolio/main/static/images/screenshot.png" alt="screenshot of web development portfolio built with Python" /></a></td>
